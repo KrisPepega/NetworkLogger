@@ -1,0 +1,1 @@
+copy settings to appdata\Local
