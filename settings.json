@@ -1,0 +1,5 @@
+{
+    "LOG_NAME": "network_log",
+    "DOWNLOAD_TARGET": 60,
+    "UPLOAD_TARGET": 10
+}
